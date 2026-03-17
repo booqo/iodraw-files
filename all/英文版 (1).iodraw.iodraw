@@ -1,9 +1,114 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="8wyH8BhBwPiz2Ay5gLYH" name="第 1 页">
-    <mxGraphModel dx="10120" dy="5650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10947" dy="-195" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h7n03DPNwEDswItxleF3-1246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1250" target="h7n03DPNwEDswItxleF3-1280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1247" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.397;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1250" target="h7n03DPNwEDswItxleF3-1265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1248" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.592;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1250" target="h7n03DPNwEDswItxleF3-1255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1249" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1250" target="h7n03DPNwEDswItxleF3-1251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1250" value="AUV轨迹跟踪模型与控制策略：综述&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124.000244140625" y="6464.000244140625" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1251" value="4. 结论与未来展望" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484.000244140625" y="6574.000244140625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1252" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1255" target="h7n03DPNwEDswItxleF3-1262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1253" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1255" target="h7n03DPNwEDswItxleF3-1259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1254" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.892;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1255" target="h7n03DPNwEDswItxleF3-1256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1255" value="3. AUV轨迹跟踪控制策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304.000244140625" y="6574.000244140625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1256" value="3.3 控制性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.000244140625" y="6664.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1257" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1259" target="h7n03DPNwEDswItxleF3-1261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1258" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1259" target="h7n03DPNwEDswItxleF3-1260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1259" value="3.2 控制策略方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364.000244140625" y="6664.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1260" value="&lt;span class=&quot;hljs-number&quot;&gt;3.2&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;.2&lt;/span&gt; 物理实验研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434.000244140625" y="6738.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1261" value="&lt;span class=&quot;hljs-number&quot;&gt;3.2&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;.1&lt;/span&gt; 数学建模研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324.000244140625" y="6738.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1262" value="3.1 控制策略的重要性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268.000244140625" y="6664.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1263" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1265" target="h7n03DPNwEDswItxleF3-1275">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1264" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1265" target="h7n03DPNwEDswItxleF3-1268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1265" value="2. AUV轨迹跟踪模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14.000244140625" y="6574.000244140625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1266" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1268" target="h7n03DPNwEDswItxleF3-1270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1267" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1268" target="h7n03DPNwEDswItxleF3-1269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1268" value="2.2 系统辨识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174.000244140625" y="6664.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1269" value="&lt;span class=&quot;hljs-number&quot;&gt;2.2&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;.2&lt;/span&gt; 在线识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228.000244140625" y="6738.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1270" value="&lt;span class=&quot;hljs-number&quot;&gt;2.2&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;.1&lt;/span&gt; 离线识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144.000244140625" y="6738.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1271" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1275" target="h7n03DPNwEDswItxleF3-1279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1272" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1275" target="h7n03DPNwEDswItxleF3-1278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1273" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1275" target="h7n03DPNwEDswItxleF3-1277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1274" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7n03DPNwEDswItxleF3-1275" target="h7n03DPNwEDswItxleF3-1276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1275" value="2.1 解析模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15.999755859375" y="6664.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1276" value="&lt;span class=&quot;hljs-number&quot;&gt;2.1&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;.4&lt;/span&gt; 环境干扰因素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="54.000244140625" y="6738.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1277" value="&lt;span class=&quot;hljs-number&quot;&gt;2.1&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;.3&lt;/span&gt; 系统非线性因素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-35.999755859375" y="6738.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1278" value="&lt;span class=&quot;hljs-number&quot;&gt;2.1&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;.2&lt;/span&gt; 系统耦合因素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-125.999755859375" y="6738.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1279" value="&lt;span class=&quot;hljs-number&quot;&gt;2.1&lt;/span&gt;&lt;span class=&quot;hljs-number&quot;&gt;.1&lt;/span&gt; 模型构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-215.999755859375" y="6738.000244140625" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7n03DPNwEDswItxleF3-1280" value="1. 引言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-215.999755859375" y="6574.000244140625" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
